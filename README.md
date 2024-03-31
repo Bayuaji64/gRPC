@@ -15,3 +15,7 @@ go mod tidy
 
 
 ./bin/greet/server
+
+
+chmod +x ssl.sh
+./ssl.sh
