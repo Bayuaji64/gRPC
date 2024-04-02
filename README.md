@@ -19,3 +19,6 @@ go mod tidy
 
 chmod +x ssl.sh
 ./ssl.sh
+
+
+go get go.mongodb.org/mongo-driver/mongo
